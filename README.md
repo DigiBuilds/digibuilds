@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Backend-Node.js-brightgreen?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/DB-Firebase-yellow?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Tech-Next-black?style=for-the-badge&logo=next" />
 </p>
 
 ---
