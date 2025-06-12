@@ -1,6 +1,6 @@
 # 🚀 DigiBuilds – Next-Gen Web Experiences, Engineered with Style 💻✨
 
-![DigiBuilds Banner](https://your-image-link.com/banner.png) 
+![DigiBuilds Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlidDBtZW11aHZmeXp1bnRmazgwYjF5MmpremtpdjU0enFmNnJ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tech-React-blue?style=for-the-badge&logo=react" />
@@ -37,15 +37,7 @@
 
 ---
 
-## 🚧 Featured Projects
 
-| Project | Description | Live Demo | Code |
-|--------|-------------|-----------|------|
-| **BuildBase** 🧱 | Construction Biz site builder | [Live](https://buildbase.vercel.app) | [Repo](https://github.com/yourname/buildbase) |
-| **RealEstatz** 🏠 | Real estate listings & lead gen | [Live](https://realestatz.vercel.app) | [Repo](https://github.com/yourname/realestatz) |
-| **Stackfolio** 💼 | Dev portfolio site builder | [Live](https://stackfolio.vercel.app) | [Repo](https://github.com/yourname/stackfolio) |
-
----
 
 ## 🤝 Let’s Build Something Cool
 
